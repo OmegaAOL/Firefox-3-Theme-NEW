@@ -9,6 +9,9 @@ If you are looking for the Firefox Quantum 57-88 ***PHOTON*** version of this th
 
 I ***highly*** recommend you to read the Q&A section further down. You might find a theme or even a browser that suits your needs better.
 
+Works best on Windows 10 and 11. Windows 7/8 might not support a new enough version of Firefox to run this theme properly, in which case I recommend
+the older theme linked above. Windows XP/Vista users can use Classic Theme Restorer with FX52 or this theme with FX128 + OneCore API.
+
 # Requirements
 
 **YOU MUST HAVE FIREFOX 89 OR ABOVE!!!**
