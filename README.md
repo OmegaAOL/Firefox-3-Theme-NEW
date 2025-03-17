@@ -4,7 +4,7 @@ This is a theme for Firefox Quantum ***PROTON*** (89 to latest version) to look 
 This theme has only been tested on versions 115esr and 128esr, it should work on older or newer versions.
 If it has an issue with newer versions, raise an issue. If it has an issue with older versions (pre-115), don't bother. It will not be fixed.
 
-**I recommend you use Firefox 128esr! Features may not fully work on other versions! It should be compatible on paper, but has been sparingly tested.**
+**I recommend you use Firefox 128esr, or 115esr if you're on Windows 7! Features may not fully work on other versions - it should be compatible on paper, but has been sparingly tested.**
 
 This borrows majorly from ***Aris-t2/CustomCSSForFX*** and very slightly from ***echelon-theme/echelon***. Licensed under GPL 3.0 and MPL 2.0.
 If you are looking for the Firefox Quantum 57-88 ***PHOTON*** version of this theme, go to https://github.com/OmegaAOL/Firefox3Theme/
