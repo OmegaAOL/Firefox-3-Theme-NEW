@@ -20,13 +20,13 @@ If you are looking for the Firefox Quantum 57-88 "PHOTON" version of this theme,
 
 toolkit.legacyUserProfileCustomizations.stylesheets > *True*
 
-browser.compactmode.show *True*
+browser.compactmode.show > *True*
 
 *(type in ***about:config*** in the URL bar, search for the config rule in the page, and click the toggle button to the right to set to True)*
 If any one of these are not there already, type them in the bar > at the bottom, check *Boolean* > click the plus icon to the right.
 
-**4)** Go to the Customize Toolbar page (right-click on empty space on tab bar > Customize Toolbar). Set Bookmarks Toolbar to ***Always Show***, check the ***Menu
-Bar*** checkbox and check the ***Title Bar*** checkbox. This helps fix spacing issues in the Mozilla color theme.
+**4)** Go to the Customize Toolbar page (right-click on empty space on tab bar > Customize Toolbar). Set Bookmarks Toolbar to ***Always Show***, set Density to *Compact - not supported*,
+check the ***Menu Bar*** checkbox and check the ***Title Bar*** checkbox. This helps fix spacing issues in the Mozilla color theme.
 You must also add at least one bookmark to the Bookmarks Toolbar to keep it visible if you haven't enabled it before.
 If you see the Mozilla default bookmarks (e.g: "Getting Started") already present, *this is not necessary.*
 
