@@ -71,6 +71,8 @@ Old Facebook @ https://addons.mozilla.org/en-US/firefox/addon/old-layout-for-fac
 
 Tampermonkey with the "Gplex" script @ https://greasyfork.org/en/scripts/492193-gplex-old-google-frontend - old Google layout(s). Custom hosted frontend. Image previews broken.
 
+uBlock Origin @ https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ - not a part of making Firefox more nostalgic, but it's vital for a Web user and really should be bundled in with Firefox at this point
+
 # Questions and Answers (Q&A)
 
 ***I don't want the Menu Bar/Bookmarks Toolbar.***
