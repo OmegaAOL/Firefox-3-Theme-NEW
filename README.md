@@ -57,7 +57,16 @@ Return YouTube Dislikes @ https://addons.mozilla.org/en-US/firefox/addon/return-
 I recommend fiddling with the default Redux settings to achieve your preferred look. This just modifies YouTube's default frontend and is not a custom hosted video page unlike some options.
 The other options are *slow, buggy, and lack a ton of features*. If you really want the 2008 look and not Youtube Redux's 2013-2017 theming, check out https://vorapis.pages.dev/
 
+# Other add-ons I recommend to complete the experience 
 
+Old Reddit Redirect @ https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/ - tells Reddit to display its older layout.
+Does not modify anything. 
+
+Old Twitter @ https://addons.mozilla.org/en-US/firefox/addon/old-twitter-layout-2024/ - old layout for Twitter. Custom hosted frontend (I think).
+
+Old Facebook @ https://addons.mozilla.org/en-US/firefox/addon/old-layout-for-facebook/ - tells Facebook to display the old layout. Modifies nothing.
+
+Tampermonkey with the "Gplex" script @ https://greasyfork.org/en/scripts/492193-gplex-old-google-frontend - old Google layout(s). Custom hosted frontend. Image previews broken.
 
 # Questions and Answers (Q&A)
 
