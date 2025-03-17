@@ -86,8 +86,8 @@ uses almost no JavaScript, except for changing the home/newtab page and the Book
 The Native Controls Patch is also not listed here due to a dip in scrolling speed I observed when using it.
 
 In addition, Echelon only supports Firefox from 115 and upwards - the older version of this theme supports all old versions of Firefox Quantum Photon,
-and the new version of this theme supports all versions of proton. Both theme versions in combination support all versions of Quantum from 57 to 136
-spanning a Firefox release history of over 7 years.
+and the new version of this theme supports all versions of proton. Both theme versions in combination support (on paper) all versions of Quantum from 57 to 131
+spanning a Firefox release history of over 7 years. 
 
 ***I prefer classic Firefox/old Quantum Firefox!***
 
