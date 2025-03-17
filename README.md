@@ -22,6 +22,8 @@ Windows XP/Vista users can use Classic Theme Restorer with FX52, Mypal with the 
 *Windows 2000 users can use Classic Theme Restorer with FX52 or Mypal 68 with the older version of this theme linked above. It is 100% compatible. You will
 need to have the Windows 2000 Extended Kernel installed first, otherwise you're stuck with Firefox 12.*
 
+*Windows 98 users have the same options as Windows 2000 users, except they can use KernelEx instead of the 2000 Extended Kernel*
+
 # Requirements
 
 **YOU MUST HAVE FIREFOX 89 OR ABOVE!!!**
