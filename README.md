@@ -17,7 +17,9 @@ If you are looking for the Firefox Quantum 57-88 "PHOTON" version of this theme,
 **2)** Install the Mozilla Color theme ***Firefox 3 Classic***: https://addons.mozilla.org/en-US/firefox/addon/firefox-3-classic/
 
 **3)** Make sure you have the following set: 
+
 toolkit.legacyUserProfileCustomizations.stylesheets > *True*
+
 browser.compactmode.show *True*
 
 *(type in ***about:config*** in the URL bar, search for the config rule in the page, and click the toggle button to the right to set to True)*
