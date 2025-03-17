@@ -11,7 +11,7 @@ If you are looking for the Firefox Quantum 57-88 ***PHOTON*** version of this th
 
 I ***highly*** recommend you to read the Q&A section further down. You might find a theme or even a browser that suits your needs better.
 
-# Windows Requirements (Windows XP, 7 to 11)
+# Windows Requirements (Windows XP, Windows 7 to 11)
 
 Windows 7, Windows 8: 115esr (last supported version, tested OK)
 
