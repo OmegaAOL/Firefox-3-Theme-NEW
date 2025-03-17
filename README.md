@@ -109,7 +109,12 @@ You should have used a *recommended* version of Firefox. My current recommendati
 Delete the compatibility.ini file in the profile folder, make a backup of the folder, uninstall Firefox, reinstall Firefox 128 from "https://ftp.mozilla.org/pub/firefox/releases/128.8.0esr/",
 paste the folder back where it was if it has been deleted, restart Firefox, if it hasn't used the same profile go to about:profiles and set your profile as the default. It should work now.
 
+***If you recommend Pale Moon, why don't you use it?***
 
+Good question. I use Firefox because it's faster *(Pale Moon is based on Firefox 33 and has a LOT of code from older versions, including a major chunk from... Firefox 3!)* and has multiprocess mode.
+It also supports the extensions I like and since I do some web development it's a must-have.
+
+Pale Moon however is able to render modern sites and is patched with security updates.
 
 
 
