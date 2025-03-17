@@ -46,14 +46,16 @@ If you choose to update, the theme may randomly break, making it look unsightly 
 
 # YouTube Theme (Optional)
 
-Install the Stylus add-on and import the .json file in the repository. Then go to YouTube and enable all the styles from Stylus.
+Install a few addons:
 
-Install YouTube Redux and enable these: 
+YouTube Redux @ https://addons.mozilla.org/en-US/firefox/addon/youtube-redux/
 
-![this](redux1.png) ![this](redux2.png)
+Annotations Restored @ https://addons.mozilla.org/en-US/firefox/addon/annotations-restored
 
-Install Youtube - Right Side Description userscript from GreasyFork (google it) into Greasemonkey (an add-on for Firefox)
+Return YouTube Dislikes @ https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/
 
+I recommend fiddling with the default Redux settings to achieve your preferred look. This is non-invasive and not a custom hosted video page unlike some options.
+The other options are *slow, buggy, and lack a ton of features*. If you really want the 2008 look and not Youtube Redux's 2013-2017 theming, check out https://vorapis.pages.dev/
 
 
 
