@@ -7,6 +7,8 @@ If it has an issue with newer versions, raise an issue. If it has an issue with 
 This borrows mostly from *Aris-t2/CustomCSSForFX* and very slightly from *echelon-theme/echelon*. Licensed under GPL 3.0 and MPL 2.0.
 If you are looking for the Firefox Quantum 57-88 ***PHOTON*** version of this theme, go to https://github.com/OmegaAOL/Firefox3Theme/
 
+I ***highly*** recommend you to read the Q&A section further down. You might find a theme or even a browser that suits your needs better.
+
 # Requirements
 
 **YOU MUST HAVE FIREFOX 89 OR ABOVE!!!**
@@ -57,22 +59,44 @@ Install Youtube - Right Side Description userscript from GreasyFork (google it) 
 
 # Questions and Answers (Q&A)
 
-*I don't want the Menu Bar/Bookmarks Toolbar.*
+***I don't want the Menu Bar/Bookmarks Toolbar.***
+
 Sorry, they were on by default in Firefox 3 and most theme components (Mozilla color theme, TabsOnBottom) don't work properly without them.
 
-*Not an exactly accurate recreation of Firefox 3.*
-Some components are 
-*But Firefox 88 doesn't load websites nowadays!*
-In about:config, create a string titled 'general.useragent.override' and set its value to the newest Firefox useragent.
+***Not an exactly accurate recreation of Firefox 3. Some elements look modern and some elements are from different versions of Firefox.***
 
-*Why doesn't this work on Firefox 89+?*
-Firefox 89 completely changed the base UI. As a result, this theme is broken.
+If you want accuracy, you can use Echelon (echelon-theme/echelon) instead. This, however, slowed down my browser's speed. Unlike Echelon, this theme
+uses almost no JavaScript, except for changing the home/newtab page and the Bookmarks/History Library. You should not expect any dips in speed.
+The Native Controls Patch is also not listed here due to a dip in scrolling speed I observed when using it.
 
-*Why doesn't the YouTube theme work?*
-Things change over time. I will try to keep the Youtube theme updated.
+In addition, Echelon only supports Firefox from 115 and upwards - the older version of this theme supports all old versions of Firefox Quantum Photon,
+and the new version of this theme supports all versions of proton. Both theme versions in combination support all versions of Quantum from 57 to 136
+spanning a Firefox release history of over 7 years.
 
-*Youtube Redux isn't working/is broken!*
-YouTube Redux does not get many updates nowadays. Things might be broken. I cannot control these as I do not develop the extension.
+***I prefer classic Firefox/old Quantum Firefox!***
+
+For users of XUL-based "classic" Firefox versions, *Classic Theme Restorer* is a good extension for you. For users of old Quantum-based Photon Firefox, you can make use of the
+old theme here: *https://github.com/OmegaAOL/Firefox3Theme*
+
+Before you do this, if you are intent on using an older Gecko-based and XUL-addon supporting Firefox version, I highly recommend ***Pale Moon*** with the ***Aeromoon*** theme for a pixel-perfect Firefox 3 look while also being fast and compatible with nearly all modern sites.
+*Pale Moon* can be downloaded at https://palemoon.org/ and *Aeromoon* can be installed at https://addons.palemoon.org/addon/aeromoon/
+
+***Why not just use Firefox 3 instead of settling for a cobbled-together, subpar theme?***
+
+I really do hope nobody is considering this. Firefox 3 was released almost 17 years ago. If you really want Firefox 3, you may download it from Mozilla for 32-bit Windows,
+32-bit OS X, and 32-bit Linux at https://ftp.mozilla.org/pub/firefox/releases/3.6.9/
+
+For perfectionists, I highly recommend ***Pale Moon*** with the ***Aeromoon*** theme for a pixel-perfect Firefox 3 look while also being fast and compatible with nearly all modern sites.
+*Pale Moon* can be downloaded at https://palemoon.org/ and *Aeromoon* can be installed at https://addons.palemoon.org/addon/aeromoon/
+
+***Didn't work - my Firefox is now broken! Thanks a lot.***
+
+You should have used a *recommended* version of Firefox. My current recommendation is 128ESR, although 115ESR is also fine.
+Delete the compatibility.ini file in the profile folder, make a backup of the folder, uninstall Firefox, reinstall Firefox 128 from "https://ftp.mozilla.org/pub/firefox/releases/128.8.0esr/",
+paste the folder back where it was if it has been deleted, restart Firefox, if it hasn't used the same profile go to about:profiles and set your profile as the default. It should work now.
+
+
+
 
 
 
