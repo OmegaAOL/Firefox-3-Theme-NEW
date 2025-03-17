@@ -92,7 +92,7 @@ spanning a Firefox release history of over 7 years.
 For users of XUL-based "classic" Firefox versions, *Classic Theme Restorer* is a good extension for you. For users of old Quantum-based Photon Firefox, you can make use of the
 old theme here: *https://github.com/OmegaAOL/Firefox3Theme*
 
-Before you do this, if you are intent on using an older Gecko-based and XUL-addon supporting Firefox version, I highly recommend ***Pale Moon*** with the ***Aeromoon*** theme for a pixel-perfect Firefox 3 look while also being fast and compatible with nearly all modern sites.
+Before you do this, if you are intent on using an older Gecko-based and XUL-addon supporting Firefox version, I highly recommend ***Pale Moon*** with the ***Aeromoon*** theme for a pixel-perfect Firefox 3 look while also being fast (enough) and compatible with nearly all modern sites.
 *Pale Moon* can be downloaded at https://palemoon.org/ and *Aeromoon* can be installed at https://addons.palemoon.org/addon/aeromoon/
 
 ***Why not just use Firefox 3 instead of settling for a cobbled-together, subpar theme?***
@@ -100,7 +100,7 @@ Before you do this, if you are intent on using an older Gecko-based and XUL-addo
 I really do hope nobody is considering this. Firefox 3 was released almost 17 years ago. If you really want Firefox 3, you may download it from Mozilla for 32-bit Windows,
 32-bit OS X, and 32-bit Linux at https://ftp.mozilla.org/pub/firefox/releases/3.6.9/
 
-For perfectionists, I highly recommend ***Pale Moon*** with the ***Aeromoon*** theme for a pixel-perfect Firefox 3 look while also being fast and compatible with nearly all modern sites.
+For perfectionists, I highly recommend ***Pale Moon*** with the ***Aeromoon*** theme for a pixel-perfect Firefox 3 look while also being fast (enough) and compatible with nearly all modern sites.
 *Pale Moon* can be downloaded at https://palemoon.org/ and *Aeromoon* can be installed at https://addons.palemoon.org/addon/aeromoon/
 
 ***Didn't work - my Firefox is now broken! Thanks a lot.***
