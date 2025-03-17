@@ -11,13 +11,16 @@ If you are looking for the Firefox Quantum 57-88 ***PHOTON*** version of this th
 
 I ***highly*** recommend you to read the Q&A section further down. You might find a theme or even a browser that suits your needs better.
 
-Works best on:
+**Works best on:**
 
 Windows 7, Windows 8: 115esr (last supported version, tested OK)
 
 Windows 10, Windows 11: 128esr (tested OK)
 
-Windows XP/Vista users can use Classic Theme Restorer with FX52 or this theme with FX115/FX128 + OneCore API.
+Windows XP/Vista users can use Classic Theme Restorer with FX52, Mypal with the older theme, or this theme with FX115/FX128 + OneCore API.
+
+*Windows 2000 users can use Classic Theme Restorer with FX52 or Mypal 68 with the older version of this theme linked above. It is 100% compatible. You will
+need to have the Windows 2000 Extended Kernel installed first, otherwise you're stuck with Firefox 12.*
 
 # Requirements
 
