@@ -27,6 +27,7 @@ If any one of these are not there already, type them in the bar > at the bottom,
 Bar*** checkbox and check the ***Title Bar*** checkbox. This helps fix spacing issues in the Mozilla color theme.
 You must also add at least one bookmark to the Bookmarks Toolbar to keep it visible if you haven't enabled it before.
 If you see the Mozilla default bookmarks (e.g: "Getting Started") already present, *this is not necessary.*
+
 *Optional:* Enable the Search Bar and drag it to the right of Address Bar. Put Zoom Controls to the right of Search Bar. Enable Home Button and Reload button in Customize Toolbar and place them like this: BACK - FORWARD - RELOAD - HOME
 
 **5)** Type in ***about:profiles*** in the URL bar. Find the profile marked *This is the profile in use and it cannot be deleted* and click on the TOPMOST ***Open Folder*** button below it (for Root Directory).
