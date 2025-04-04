@@ -28,11 +28,11 @@ need to have the Windows 2000 Extended Kernel installed first, otherwise you're 
 
 115esr and 128esr are tested working.
 
-**128ESR** (select your platform and language region in the directory, default win64 -> en-US)
+**128ESR** (select your platform and language region in the directory, default win64 -> en-US -> Firefox Setup XX.XXXX.XX.exe)
 
 https://ftp.mozilla.org/pub/firefox/releases/128.9.0esr/
 
-**115ESR** (select your platform and language region in the directory, default win64 -> en-US)
+**115ESR** (select your platform and language region in the directory, default win64 -> en-US -> Firefox Setup XX.XXXX.XX.exe)
 
 https://ftp.mozilla.org/pub/firefox/releases/115.22.0esr/
 
