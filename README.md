@@ -50,8 +50,11 @@ for them in Settings.
 # Requirements
 
 **YOU MUST HAVE FIREFOX 89 OR ABOVE!!!**
+
 **WILL NOT WORK ON PROTON-ERA "SQUARE TABS" FIREFOX BROWSERS (v88 AND LOWER) OR NON-QUANTUM "CLASSIC" FIREFOX BROWSERS (v56 AND LOWER)**
+
 **FIREFOX FORKS LIKE MULLVAD BROWSER OR LIBREWOLF STRIP OUT FEATURES THAT THEY DEEM UNNEEDED. THIS THEME OFFERS NO SUPPORT FOR SUCH FORKS.**
+
 *Firefox forks that are supported by this theme are the guide-appropriate versions of r3dfox and Marble.*
 
 **1)** Download the Latest Release of this theme from the Releases section - includes the ***chrome*** folder.
