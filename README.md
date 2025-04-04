@@ -44,6 +44,9 @@ You can use your existing, newer, Firefox installation (features may or may not 
 
 If this has problems, you should ideally create a new profile.
 
+If you are going to install this theme on a Firefox installation newer than 128ESR, I would **highly** recommend you to disable Firefox auto-updates. Search
+for them in Settings.
+
 # Requirements
 
 **YOU MUST HAVE FIREFOX 89 OR ABOVE!!!**
