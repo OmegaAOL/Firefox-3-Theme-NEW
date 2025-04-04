@@ -24,6 +24,26 @@ need to have the Windows 2000 Extended Kernel installed first, otherwise you're 
 
 *Windows 98 users have the same options as Windows 2000 users, except they can use KernelEx instead of the 2000 Extended Kernel*
 
+# Download Firefox
+
+115esr and 128esr are tested working.
+
+**128ESR** (select your platform and language region in the directory, default win64 -> en-US)
+
+https://ftp.mozilla.org/pub/firefox/releases/128.9.0esr/
+
+**115ESR** (select your platform and language region in the directory, default win64 -> en-US)
+
+https://ftp.mozilla.org/pub/firefox/releases/115.22.0esr/
+
+You can use your existing, newer, Firefox installation, or you can:
+
+1) uninstall the later version of Firefox
+2) delete compatibility.ini in your default profile folder
+3) install and launch 115 or 128 esr
+
+If this has problems, you should ideally create a new profile.
+
 # Requirements
 
 **YOU MUST HAVE FIREFOX 89 OR ABOVE!!!**
