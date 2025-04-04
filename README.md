@@ -39,8 +39,10 @@ https://ftp.mozilla.org/pub/firefox/releases/115.22.0esr/
 You can use your existing, newer, Firefox installation (features may or may not be broken, try it out if you want to), or you can:
 
 1) uninstall the later version of Firefox
-2) delete compatibility.ini in your default profile folder
-3) install and launch 115 or 128 esr
+2) 
+3) delete compatibility.ini in your default profile folder
+4) 
+5) install and launch 115 or 128 esr
 
 If this has problems, you should ideally create a new profile.
 
