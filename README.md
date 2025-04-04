@@ -36,7 +36,7 @@ https://ftp.mozilla.org/pub/firefox/releases/128.9.0esr/
 
 https://ftp.mozilla.org/pub/firefox/releases/115.22.0esr/
 
-You can use your existing, newer, Firefox installation, or you can:
+You can use your existing, newer, Firefox installation (features may or may not be broken, try it out if you want to), or you can:
 
 1) uninstall the later version of Firefox
 2) delete compatibility.ini in your default profile folder
