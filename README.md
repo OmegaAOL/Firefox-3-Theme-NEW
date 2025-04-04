@@ -29,7 +29,7 @@ need to have the Windows 2000 Extended Kernel installed first, otherwise you're 
 **YOU MUST HAVE FIREFOX 89 OR ABOVE!!!**
 **WILL NOT WORK ON PROTON-ERA "SQUARE TABS" FIREFOX BROWSERS (v88 AND LOWER) OR NON-QUANTUM "CLASSIC" FIREFOX BROWSERS (v56 AND LOWER)**
 
-**1)** Download the Latest Release - includes the ***chrome*** folder.
+**1)** Download the Latest Release of this theme from the Releases section - includes the ***chrome*** folder.
 
 **2)** Install the Mozilla Color theme ***Firefox 3 Classic***: https://addons.mozilla.org/en-US/firefox/addon/firefox-3-classic/
 
