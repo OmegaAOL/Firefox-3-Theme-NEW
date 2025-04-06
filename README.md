@@ -17,12 +17,7 @@ Windows 7, Windows 8: 115esr (last supported version, tested OK)
 
 Windows 10, Windows 11: 128esr (tested OK)
 
-Windows XP/Vista users can use Classic Theme Restorer with FX52, Mypal with the older theme, or this theme with FX115/FX128 + OneCore API.
-
-*Windows 2000 users can use Classic Theme Restorer with FX52 or Mypal 68 with the older version of this theme linked above. It is 100% compatible. You will
-need to have the Windows 2000 Extended Kernel installed first, otherwise you're stuck with Firefox 12.*
-
-*Windows 98 users have the same options as Windows 2000 users, except they can use KernelEx instead of the 2000 Extended Kernel*
+Other users can look at my old repo.
 
 # Download Firefox
 
