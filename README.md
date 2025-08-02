@@ -49,9 +49,10 @@ for them in Settings.
 
 **WILL NOT WORK ON PROTON-ERA "SQUARE TABS" FIREFOX BROWSERS (v88 AND LOWER) OR NON-QUANTUM "CLASSIC" FIREFOX BROWSERS (v56 AND LOWER)**
 
-**FIREFOX FORKS LIKE MULLVAD BROWSER OR LIBREWOLF STRIP OUT FEATURES THAT THEY DEEM UNNEEDED. THIS THEME OFFERS NO SUPPORT FOR SUCH FORKS.**
+**FIREFOX FORKS LIKE MULLVAD BROWSER, ZEN BROWSER, OR LIBREWOLF ARE NOT EXPECTED OR GUARANTEED TO WORK WITH THIS THEME.** Nevertheless, you can try if the fork is based on Firefox 115 or above and
+doesn't have it's own custom theme.
 
-*Firefox forks that are supported by this theme are the guide-appropriate versions of r3dfox and Marble.*
+*Firefox forks that are supported by this theme are: Marble. r3dfox and Mullvad were supported but are no longer due to theming changes from standard Firefox.*
 
 **1)** Download the Latest Release of this theme from the Releases section - includes the ***chrome*** folder.
 
@@ -93,7 +94,7 @@ Go to https://vorapis.pages.dev/#/home/download and click "Install V3 as userscr
 
 Go to https://greasyfork.org/en/scripts/485622-startube and click the green "Install" button
 
-Restart Firefox, open YouTube, and configure StarTube to your liking (DO NOT SELECT "ADAPTIVE", IT IS BUGGY AS HELL)
+Restart Firefox, open YouTube, and configure StarTube to your liking. For an era-appropiate theme (Firefox 3.6 was released early 2010), select Stargazer (late 2009).
 
 # Other add-ons I recommend to complete the experience 
 
