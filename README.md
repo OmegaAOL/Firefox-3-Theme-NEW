@@ -94,7 +94,7 @@ Go to https://vorapis.pages.dev/#/home/download and click "Install V3 as userscr
 
 Go to https://greasyfork.org/en/scripts/485622-startube and click the green "Install" button
 
-Restart Firefox, open YouTube, and configure StarTube to your liking. For an era-appropiate theme (Firefox 3.6 was released early 2010), select Stargazer (late 2009).
+Restart Firefox, open YouTube, and configure StarTube to your liking. For an era-appropiate theme, select any of the Stargazer YouTube themes in StarTube settings.
 
 # Other add-ons I recommend to complete the experience 
 
