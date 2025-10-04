@@ -135,7 +135,7 @@ Before you do this, if you are intent on using an older Gecko-based and XUL-addo
 
 ***Why not just use Firefox 3 instead of settling for a cobbled-together, subpar theme?***
 
-I really do hope nobody is considering this. Firefox 3 was released almost 17 years ago. If you really want Firefox 3, you may download it from Mozilla for Windows, OS X pre-Mojave, and Linux at https://ftp.mozilla.org/pub/firefox/releases/3.6.9/
+I really do hope nobody is considering this. Firefox 3 was released almost 17 years ago. If you really want Firefox 3, you may download it from Mozilla for Windows, OS X (only Mojave and older), and Linux at https://ftp.mozilla.org/pub/firefox/releases/3.6.9/
 
 For perfectionists, I highly recommend ***Pale Moon*** with the ***Aeromoon*** theme for a pixel-perfect Firefox 3 look while also being fast (enough) and compatible with nearly all modern sites.
 *Pale Moon* can be downloaded at https://palemoon.org/ and *Aeromoon* can be installed at https://addons.palemoon.org/addon/aeromoon/
