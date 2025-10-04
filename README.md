@@ -98,6 +98,8 @@ Restart Firefox, open YouTube, and configure StarTube to your liking. For an era
 
 # Other add-ons I recommend to complete the experience 
 
+uBlock Origin @ https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ - not a part of making Firefox more nostalgic, but it's vital for a Web user and really should be bundled in with Firefox at this point
+
 Old Reddit Redirect @ https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/ - tells Reddit to display its older layout.
 Does not modify anything. 
 
@@ -105,15 +107,13 @@ Old Twitter @ https://addons.mozilla.org/en-US/firefox/addon/old-twitter-layout-
 
 Old Facebook @ https://addons.mozilla.org/en-US/firefox/addon/old-layout-for-facebook/ - tells Facebook to display the old layout. Modifies nothing.
 
-Tampermonkey with the "Gplex" script @ https://greasyfork.org/en/scripts/492193-gplex-old-google-frontend - old Google layout(s). Custom hosted frontend. Image previews broken.
-
-uBlock Origin @ https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ - not a part of making Firefox more nostalgic, but it's vital for a Web user and really should be bundled in with Firefox at this point
+Tampermonkey with the "Gplex" script @ https://greasyfork.org/en/scripts/492193-gplex-old-google-frontend - old Google layout(s). Custom hosted frontend. 
 
 # Questions and Answers (Q&A)
 
 ***I don't want the Menu Bar/Bookmarks Toolbar.***
 
-Sorry, they were on by default in Firefox 3 and most theme components (Mozilla color theme, TabsOnBottom) don't work properly without them.
+Sorry, they were on by default in Firefox 3 and most theme components (Mozilla color theme, TabsOnBottom) don't work properly without them. You need them displaying at all times.
 
 ***Not an exactly accurate recreation of Firefox 3. Some elements look modern and some elements are from different versions of Firefox.***
 
@@ -135,8 +135,7 @@ Before you do this, if you are intent on using an older Gecko-based and XUL-addo
 
 ***Why not just use Firefox 3 instead of settling for a cobbled-together, subpar theme?***
 
-I really do hope nobody is considering this. Firefox 3 was released almost 17 years ago. If you really want Firefox 3, you may download it from Mozilla for 32-bit Windows,
-32-bit OS X, and 32-bit Linux at https://ftp.mozilla.org/pub/firefox/releases/3.6.9/
+I really do hope nobody is considering this. Firefox 3 was released almost 17 years ago. If you really want Firefox 3, you may download it from Mozilla for Windows, OS X pre-Mojave, and Linux at https://ftp.mozilla.org/pub/firefox/releases/3.6.9/
 
 For perfectionists, I highly recommend ***Pale Moon*** with the ***Aeromoon*** theme for a pixel-perfect Firefox 3 look while also being fast (enough) and compatible with nearly all modern sites.
 *Pale Moon* can be downloaded at https://palemoon.org/ and *Aeromoon* can be installed at https://addons.palemoon.org/addon/aeromoon/
