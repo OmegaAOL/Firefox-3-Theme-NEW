@@ -1,6 +1,8 @@
 # Disclaimer
 
-This repository is preserved as a historical archive of my work from many years ago. It does not reflect my current abilities, skill set or direction. I recommend everybody reading this to update to at least Firefox 115 and use [the Echelon theme](https://github.com/echelon-theme/echelon).
+This repository is preserved as a historical archive of my work from many years ago. It does not reflect my current abilities, skill set or direction. 
+
+I recommend everybody reading this to update to at least Firefox 115 and use [the Echelon theme](https://github.com/echelon-theme/echelon). If you are stuck on an older browser like Mypal68, use [the original version of this theme](https://github.com/OmegaAOL/Firefox-3-Theme).
 
 # Firefox 3 Theme
 
