@@ -1,3 +1,7 @@
+# Disclaimer
+
+This repository is preserved as a historical archive of my work from many years ago. It does not reflect my current abilities, skill set or direction. I recommend everybody reading this to update to at least Firefox 115 and use [the Echelon theme](https://github.com/echelon-theme/echelon).
+
 # Firefox 3 Theme
 
 This is a theme for Firefox Quantum ***PROTON*** (89 to latest version) to look like Firefox 3.
